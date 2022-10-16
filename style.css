@@ -30,3 +30,8 @@ margin: 15px;
 .div_volume{
     float: right;
 }
+
+canvas{
+    border: 5px white solid;
+    border-radius: 20px;
+}
